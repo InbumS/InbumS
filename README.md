@@ -1,6 +1,6 @@
 <div align=center>
 
-   ### 💻 공부를 하는둥 마는둥
+   ### 💻 I Want To Learn!
   <div style="display:flex; flex-direction:row;" align="center">
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
