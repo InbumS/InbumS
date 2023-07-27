@@ -8,7 +8,7 @@
 
   <br>
   
-    ![imbums's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=InbumS&angs_count=10)(https://github.com/InbumS/InbumS)
+   (https://github-readme-stats.vercel.app/api/top-langs/?username=InbumS&langs_count=10)(https://github.com/InbumS/InbumS)
 
 
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sib0817)](https://solved.ac/sib0817/)
