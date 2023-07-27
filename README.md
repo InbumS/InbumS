@@ -8,7 +8,8 @@
   </div>
   <br>
   
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=InbumS&langs_count=10)(https://github.com/InbumS/InbumS)">
+  [![InbumS's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InbumS&theme=black)](https://github.com/anuraghazra/github-readme-stats)
+
   <br>
   <br>
   <hr>
