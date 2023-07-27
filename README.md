@@ -13,8 +13,5 @@
   <br>
   <br>
   <hr>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sib0817)](https://solved.ac/sib0817/)
-      
 
 </div>
