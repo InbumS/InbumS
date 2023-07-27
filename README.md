@@ -8,7 +8,7 @@
   </div>
   <br>
   
-  [![InbumS's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InbumS&theme=black)](https://github.com/anuraghazra/github-readme-stats)
+  [![InbumS's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InbumS&theme=black&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
   <br>
